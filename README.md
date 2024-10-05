@@ -16,7 +16,7 @@ YtubeVideo-Summarizer is an AI-powered application that automatically summarizes
 
 2. **Clone the Repository**: Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Ytubevideo-summarizer.git
+   git clone https://github.com/Pookie-n-Rookie/Ytubevideo-summarizer.git
    cd Ytubevideo-summarizer
 Install Dependencies: Make sure you have all the necessary dependencies installed. You can install them by running:
 
